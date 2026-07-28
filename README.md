@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anuj Parota+%F0%9F%91%8B;Full-Stack+%2F+%26+ML+Engineer;Building+things+in+JS%2C+React%2C+Node+%26+Python;Welcome+to+my+terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anuj+Parota+%F0%9F%91%8B;Full-Stack+%2F+%26+ML+Engineer;Building+things+in+JS%2C+React%2C+Node+%26+Python;Welcome+to+my+terminal..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ### 🛠️ `$ tech --stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,pandas,git,github,linux,vscode,figma,mysql,mongodb,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,java,python,pandas,git,github,linux,vscode,figma,mysql,mongodb,tailwind&theme=dark" />
 </p>
 
 ---
