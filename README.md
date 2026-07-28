@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Your+Name+%F0%9F%91%8B;Full-Stack+%2F+Data+%26+ML+Engineer;Building+things+in+JS%2C+React%2C+Node+%26+Python;Welcome+to+my+terminal..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anuj Parota+%F0%9F%91%8B;Full-Stack+%2F+%26+ML+Engineer;Building+things+in+JS%2C+React%2C+Node+%26+Python;Welcome+to+my+terminal..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=&fontSize=0" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHDixmrPZ345w/profile-displaybackgroundimage-shrink_200_800/B4DZpxJpBOIgAU-/0/1762834945681?e=1786579200&v=beta&t=DD9O8gh-ClxH7qSe6VOTA7YEESSJ63yewpLdNtwjMjE" />
 </p>
 
 <p align="center">
